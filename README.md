@@ -6,6 +6,7 @@ This plataform can connect people who wants to teach and people who wants to lea
 the values and the contatct stays available to who wants to learn.
 
 To run this project:
+- Make the download or clone this repository
 - Get inside the folder Proffy-NextLevelWeek
 - Run in the terminal `npm run dev `
 - Go to your web browser and, in address bar type http://localhost:5500/
